@@ -1,0 +1,6 @@
+{
+    "name": "piv915/zf1-oauth2",
+    "description": "OAuth2 implementation for Zend Framework1",
+    "require": {
+        "php": ">=5.3.0"
+}
